@@ -36,3 +36,6 @@ xterm*termname: xterm-256-color
 *xterm*color13: #bb88dd
 *xterm*color14: #4eb4fa
 *xterm*color15: #d0d0d0
+
+UXTerm*faceName: Source Code Pro for Powerline                                                                                                                 
+UXTerm*faceSize: 1

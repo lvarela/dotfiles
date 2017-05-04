@@ -35,6 +35,7 @@ if ($?tcsh) then
     unset rev rel pat
 endif
 
+
 if ($?_complete) then
     set noglob
     if ( ! $?hosts ) set hosts
